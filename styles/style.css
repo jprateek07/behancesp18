@@ -75,6 +75,12 @@ border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
     transform: rotate(360deg) scale(2);
     transition: all 0.5s ease-in-out 0s;
 }
+.contact img{
+    border-radius: 20px;
+    height: 100%;
+    object-fit: contain;
+    width: 100%;
+}
 input[type=text] {
     width: 100%;
     padding: 12px 20px;
@@ -101,7 +107,6 @@ input[type=submit]:hover{
 footer{
     height: 80px;
     width: 100%;
-    border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
     background-color: rgba(227, 255, 251, 0.904);
     position: relative;
 }
@@ -125,6 +130,8 @@ footer h5{
     }
     .contact img{
         height: 300px;
+        margin-top: 30px;
+        margin-bottom: 10px;
     }
     .contact{
         width: 80%;
