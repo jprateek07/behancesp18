@@ -1,0 +1,133 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{   
+    color: #1A0E7C;
+    font-family: 'Roboto',"Times New Roman";
+}
+.bold-letter h1{
+    font-weight: 900;
+    font-size: 45px;
+    color: #1A0E7C;
+}
+#first-name{
+    color: rgb(184, 232, 238);
+}
+#second-name{
+    color: blue;
+}
+.navbar{
+    width: 100%;
+    margin: auto;
+}
+.font-text{
+    color: #1A0E7C;
+}
+.bold-class{
+    font-size: 40px;
+    font-weight: 500;
+}
+.font-color{
+    color: #1A0E7C ;
+}
+.font-size{
+    font-size:20px;
+}
+.header-section{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-section .left-section{
+    width: 50%;
+}
+.header-section .left-section h4{
+    font-size: 21px;
+}
+.header-section .right-section{
+    width: 50%;
+}
+.middle-section{
+    background-color: rgba(227, 255, 251, 0.904);
+    border-radius: 87% 13% 96% 4% / 16% 98% 2% 84%;
+}
+.teamwork{
+    border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
+    background-color: rgba(227, 255, 251, 0.904);
+}
+.header{
+    font-size: 20px;
+    text-align: center;
+}
+.services .col-md-4{
+background-color:  rgba(227, 255, 251, 0.904);;
+border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
+}
+.services .col-md-4 i:hover{
+    cursor: default;
+    transform: rotate(360deg) scale(2);
+    transition: all 0.5s ease-in-out 0s;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: rgb(241, 241, 241);
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: rgb(176, 210, 211);
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit]:hover{
+    background-color: rgb(167, 167, 241);
+}
+footer{
+    height: 80px;
+    width: 100%;
+    border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
+    background-color: rgba(227, 255, 251, 0.904);
+    position: relative;
+}
+footer h5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@media screen and (max-width:768px)
+{
+    .services{
+        margin-top: 215px;
+    }
+    #teamwork img{
+        height: 250px;
+        margin-top: 54px;
+    }
+    #profile img{
+        height: 320px;
+    }
+    .contact img{
+        height: 300px;
+    }
+    .contact{
+        width: 80%;
+        margin: auto;
+    }
+}
