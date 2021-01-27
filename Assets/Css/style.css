@@ -29,7 +29,7 @@ body{
 .font-text{
     color: #1A0E7C;
 }
-.bold-class{
+.bold-text{
     font-size: 40px;
     font-weight: 500;
 }
@@ -47,7 +47,6 @@ body{
     border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
     background-color: rgba(227, 255, 251, 0.904);
     height: 350px;
-    margin-top: 15px 0px 25px 0px;
 }
 .teamwork .image{
     height: 100%;
@@ -65,15 +64,19 @@ body{
 .services .col{
 background-color:  rgba(227, 255, 251, 0.904);;
 border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
-/* margin-top: 1px; */
 }
 .services .col-md-4 i:hover{
     cursor: default;
     transform: rotate(360deg) scale(2);
     transition: all 0.5s ease-in-out 0s;
 }
+.contact-box-height{
+    height: 100%;
+    margin: auto;
+}
 .contact{
-    margin: 50px 0 15px 0;
+    margin-bottom: 55px  !important;
+    margin-top: 55px !important;
 }
 .contact img{
     border-radius: 20px;
@@ -116,11 +119,14 @@ footer h5{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-/* Media query for responsiveness */
+/* Media queries for responsiveness */
 @media screen and (max-width:768px)
 {
+    .bold-letter h1{
+        font-size: 30px;
+    }
     .services{
-        margin-top: 215px;
+        margin-top: 270px;
     }
     .services .col{
         margin-top: 25px;
