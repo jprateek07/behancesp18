@@ -16,10 +16,10 @@ body{
     font-size: 45px;
     color: #1A0E7C;
 }
-#first-name{
+#logo-first-name{
     color: rgb(184, 232, 238);
 }
-#second-name{
+#logo-second-name{
     color: blue;
 }
 .navbar{
@@ -116,6 +116,7 @@ footer h5{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 @media screen and (max-width:768px)
 {
     .services{
