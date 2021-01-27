@@ -1,0 +1,120 @@
+[33mcommit a0ea1e7965ab3c8c8641febbb8f6de89df18043d[m[33m ([m[1;36mHEAD -> [m[1;32mHeadersFixed[m[33m, [m[1;31morigin/HeadersFixed[m[33m)[m
+Merge: 45043e0 56bb73b
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 18:11:48 2021 +0530
+
+    Merge branch 'development' into HeadersFixed
+
+[33mcommit 45043e04e03f1c6b1ef87a6abea1f3b20a088109[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 18:10:12 2021 +0530
+
+    text changed
+
+[33mcommit 56bb73be3960c6f0807dc3c386e76ea96e7c72c5[m[33m ([m[1;31morigin/testing-git[m[33m, [m[1;31morigin/development[m[33m, [m[1;32mtesting-git[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 18:06:06 2021 +0530
+
+    placeholder changed
+
+[33mcommit e1f8fecf6e850a6253a32b4ce39f3f0ce8d33023[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 18:05:42 2021 +0530
+
+    footer changed
+
+[33mcommit 741ff136ad3eb7b6100a2365d7c4c2491f117af6[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 18:04:58 2021 +0530
+
+    title changed
+
+[33mcommit 472a1981706d010f8179db72b4a51dbe0ec9f1fa[m[33m ([m[1;31morigin/hotfix-fixed-font-size[m[33m, [m[1;32mhotfix-fixed-font-size[m[33m, [m[1;32mcontact-page[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 17:37:18 2021 +0530
+
+    fixed font size
+
+[33mcommit ffbd701680bda1ca3ba4dc1587e46f04257a5179[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 16:41:49 2021 +0530
+
+    fixed margin and padding for headers
+
+[33mcommit 27fa5109bc363d162af5038bd117ee9628c6bdae[m[33m ([m[1;31morigin/contact-page[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 16:13:31 2021 +0530
+
+    adjusted margin and padding for contact us page
+
+[33mcommit ee366b0d747974abc5626378f4d421dfc5498b84[m[33m ([m[1;31morigin/services-section[m[33m, [m[1;32mservices-section[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 15:41:07 2021 +0530
+
+    padding and alignment of services section solved
+
+[33mcommit 89bac2018053ff8a03a77b52dfd354968ee6ee87[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 15:31:53 2021 +0530
+
+    service section margin and alignment solved
+
+[33mcommit af9fd4408c3a970a6d7a7dd678ee38e68bd5701b[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 13:17:15 2021 +0530
+
+    logo naming convention fixed in css
+
+[33mcommit a3e14cd136ab14ccb4fb7e4fbc4b873a4171d38e[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 13:07:08 2021 +0530
+
+    naming of logo fixed
+
+[33mcommit 0777fc6b597fa88220081baca9133ef64350c549[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 13:01:43 2021 +0530
+
+    logo naming convention fixed
+
+[33mcommit 6d4e4d8d9e64ade9c9a3af5cbfc8b24775013258[m[33m ([m[1;32mfooter-margin-fixed[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Wed Jan 27 11:56:13 2021 +0530
+
+    footer alignment
+
+[33mcommit c9a3ad567a239155f27edd94a5df67654303216b[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 17:17:21 2021 +0530
+
+    adjusted footer margin
+
+[33mcommit c76ad601144e4a2810b3c03a0f4965aae600aaa4[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 17:13:12 2021 +0530
+
+    adjusted footer margin
+
+[33mcommit 752d1a6c60a25c0e6971c55709c6a0acf69b894a[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 16:58:19 2021 +0530
+
+    minor navbar changes
+
+[33mcommit f44d63bf2826b5799d1e9899c43f18f4f2abd8e6[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 16:07:55 2021 +0530
+
+    behance responsive website
+
+[33mcommit 87896a3742921343eccade4440ef9ef32d5bc38b[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 16:01:56 2021 +0530
+
+    behance responsive website
+
+[33mcommit 354aab108098b095bda04040c01a521af10b10b5[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m, [m[1;32mproduction[m[33m, [m[1;32mmaster[m[33m)[m
+Author: prateek jain <jprateek07@gmail.com>
+Date:   Mon Jan 25 12:40:52 2021 +0530
+
+    behance website
