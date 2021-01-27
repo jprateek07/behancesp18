@@ -39,41 +39,41 @@ body{
 .font-size{
     font-size:20px;
 }
-.header-section{
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.header-section .left-section{
-    width: 50%;
-}
-.header-section .left-section h4{
-    font-size: 21px;
-}
-.header-section .right-section{
-    width: 50%;
-}
-.middle-section{
+.quality-section{
     background-color: rgba(227, 255, 251, 0.904);
     border-radius: 87% 13% 96% 4% / 16% 98% 2% 84%;
 }
 .teamwork{
     border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
     background-color: rgba(227, 255, 251, 0.904);
+    height: 350px;
+    margin-top: 15px 0px 25px 0px;
+}
+.teamwork .image{
+    height: 100%;
+}
+.teamwork img{
+    border-radius: 25px;
 }
 .header{
     font-size: 20px;
     text-align: center;
 }
-.services .col-md-4{
+.services{
+    margin-top: 40px;
+}
+.services .col{
 background-color:  rgba(227, 255, 251, 0.904);;
 border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
+/* margin-top: 1px; */
 }
 .services .col-md-4 i:hover{
     cursor: default;
     transform: rotate(360deg) scale(2);
     transition: all 0.5s ease-in-out 0s;
+}
+.contact{
+    margin: 50px 0 15px 0;
 }
 .contact img{
     border-radius: 20px;
@@ -116,11 +116,14 @@ footer h5{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
+/* Media query for responsiveness */
 @media screen and (max-width:768px)
 {
     .services{
         margin-top: 215px;
+    }
+    .services .col{
+        margin-top: 25px;
     }
     #teamwork img{
         height: 250px;
