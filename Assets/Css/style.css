@@ -19,11 +19,6 @@ body{
     font-size: 20px;
     text-align: center;
 }
-.bold-letter h1{
-    font-weight: 900;
-    font-size: 45px;
-    color: #1A0E7C;
-}
 #logo-first-name{
     color: rgb(184, 232, 238);
 }
@@ -33,9 +28,14 @@ body{
 .font-text{
     color: #1A0E7C;
 }
-.bold-text{
+.bold-header{
     font-size: 40px;
     font-weight: 500;
+}
+.bold-letter h1{
+    font-weight: 900;
+    font-size: 45px;
+    color: #1A0E7C;
 }
 .font-color{
     color: #1A0E7C ;
@@ -50,6 +50,7 @@ body{
 .teamwork{
     border-radius: 137% 67% 53% 153% / 57% 227% 114% 105% ;
     background-color: rgba(227, 255, 251, 0.904);
+    margin-top: 100px;
     height: 350px;
 }
 .teamwork .image{
@@ -62,8 +63,8 @@ body{
     margin-top: 40px;
 }
 .services .col{
-background-color:  rgba(227, 255, 251, 0.904);;
-border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
+    background-color:  rgba(227, 255, 251, 0.904);;
+    border-radius: 87% 13% 96% 4% / 16% 98% 2% 84% ;
 }
 .services .col-md-4 i:hover{
     cursor: default;
@@ -126,7 +127,7 @@ footer h5{
         font-size: 30px;
     }
     .services{
-        margin-top: 270px;
+        margin-top: 300px;
     }
     .services .col{
         margin-top: 25px;
